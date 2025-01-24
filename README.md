@@ -1,2 +1,1 @@
-# 666pudge.github.io
-666
+index.html
